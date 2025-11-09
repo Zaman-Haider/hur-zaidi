@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Dialog } from "@headlessui/react";
-import pfp from "./../zaidipic.jpeg";
+import pfp from "./../hur.jpeg";
 import {
   Bars3Icon,
   XMarkIcon,
@@ -164,7 +164,7 @@ export default function Hero() {
               </div>
               <div className="text-center">
                 <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-                  Syed Zaman Haider
+                  Hur Abbas
                 </h1>
                 <p className="mt-6 text-2xl leading-8">
                   <TypeAnimation
@@ -192,7 +192,7 @@ export default function Hero() {
                 </div>
                 <div className="mt-10 flex items-center justify-center gap-x-4">
                   <a
-                    href="https://www.linkedin.com/in/syed-zaman-haider-031840277/"
+                    href="https://www.linkedin.com/in/hur-abbas-0b91b4397/"
                     target="_blank"
                     className="btn btn-outline btn-square"
                     rel="noreferrer"
@@ -208,7 +208,7 @@ export default function Hero() {
                   </a>
 
                   <a
-                    href="https://wa.me/923039943639"
+                    href="https://wa.me/61406569545"
                     target="_blank"
                     className="btn btn-outline btn-square"
                     rel="noreferrer"
